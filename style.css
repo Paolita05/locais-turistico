@@ -49,3 +49,13 @@ ul{
         color:#333333;
     }
 }
+.destino_1,
+.destino_2,
+.destino_3 {
+  border-radius: 35rem;
+  object-fit: cover;
+  margin-bottom: 2rem;
+  border-radius: 2.8rem;
+  width: 400;
+}
+
