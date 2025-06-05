@@ -4,5 +4,11 @@
  box-sizing: border-box;
 }
 body{
-  font-size: 1rem;  
+  font-size: 1.6rem;  
+  padding: 8.8rem 8rem;
+  background: val(--background-default);
+}
+
+img {
+    width: 100%;
 }
